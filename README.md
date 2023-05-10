@@ -5,8 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm a Full Stack Web & Blockchain Developer.\
-🎓 &nbsp;I obtained a three-year degree in Internet Of Things, Big Data & Web at the University of Udine.\
-✉️ &nbsp;You can shoot me an email at dev.andrea.antonutti@gmail.com! I'll try to respond as soon as I can.
+🎓 &nbsp;I obtained a three-year degree in Internet Of Things, Big Data & Web at the University of Udine.
 
 ### 🛠 &nbsp;Tech Stack
 
